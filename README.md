@@ -1,1 +1,1 @@
-# Mensajes
+Este programa es una aplicación de consola que permite al usuario gestionar órdenes mediante un menú interactivo. El usuario puede registrar, visualizar y eliminar órdenes utilizando una estructura Map sincronizada para mantener la integridad de los datos en entornos multihilo.#
